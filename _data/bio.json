@@ -22,36 +22,50 @@
       },
       {
         "network": "linkedin",
-        "username": "christinachen",
+        "username": "Christina Chen",
         "url": "https://www.linkedin.com/in/christina-chen-3211aa176/"
       }
     ]
   },
   "interests": [
     {
-      "name": "",
+      "name": "Object-Oriented Programming",
       "keywords": [
 
+      ]
+    },
+    {
+      "name": "Scripting",
+      "keywords": [
+      
+      
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "keywords": [
+       
       ]
     }
   ],
   "skills": [
     {
       "name": "Languages",
-      "level": "",
+      "level": "Intermediate",
       "keywords": [
         "C",
         "C++",
-        "Java"
+        "Java",
+        "Python"
       ]
     },
     {
-      "name": "Toolsets/OS",
-      "level": "",
+      "name": "OS",
+      "level": "Beginner",
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "g++"
+        "Unix"
       ]
     }
   ],

@@ -3,6 +3,7 @@ layout: project
 type: project
 image: images/tictactoe1.png
 title: Tic-Tac-Toe
+permalink: projects/tictactoe
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-20
 labels:

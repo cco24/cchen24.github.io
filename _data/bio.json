@@ -30,22 +30,12 @@
   "interests": [
     {
       "name": "object-oriented programming",
-      "keywords": [
-
-      ]
     },
     {
       "name": "scripting (for automated tasks)",
-      "keywords": [
-      
-      
-      ]
     },
     {
       "name": "software engineering",
-      "keywords": [
-       
-      ]
     }
   ],
   "skills": [
@@ -76,7 +66,7 @@
       "courses": [
         "Intro to Computer Science I and II (taught in Java)",
         "Discrete Mathematics I and II",
-        "Program Structure (taught in C/C++)"
+        "Program Structure (taught in C/C++)",
         "Calculus I and II" 
       ]
     }

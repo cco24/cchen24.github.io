@@ -6,7 +6,7 @@
     "email": "cchen2@hawaii.edu",
     "phone": "",
     "website": "https://cco24.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -29,20 +29,20 @@
   },
   "interests": [
     {
-      "name": "Object-Oriented Programming",
+      "name": "object-oriented programming",
       "keywords": [
 
       ]
     },
     {
-      "name": "Scripting",
+      "name": "scripting (for automated tasks)",
       "keywords": [
       
       
       ]
     },
     {
-      "name": "Software Engineering",
+      "name": "software engineering",
       "keywords": [
        
       ]
@@ -51,22 +51,17 @@
   "skills": [
     {
       "name": "Languages",
-      "level": "Intermediate",
       "keywords": [
         "C",
-        "C++",
         "Java",
         "Python"
       ]
     },
     {
-      "name": "OS",
-      "level": "Beginner",
+      "name": "Toolsets/OS,
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Unix"
-      ]
+        "Windows"
     }
   ],
   "education": [
@@ -78,9 +73,10 @@
       "endDate": "Present",
       "gpa": "3.34",
       "courses": [
-        "Intro to Computer Science I and II",
+        "Intro to Computer Science I and II (taught in Java)",
         "Discrete Mathematics I and II",
-        "Program Structure"
+        "Program Structure (taught in C/C++)"
+        "Calculus I and II" 
       ]
     }
   ],

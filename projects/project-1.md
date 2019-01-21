@@ -30,9 +30,13 @@ This project was part of an individual attempt of mine to practice programming.
 Here are the links to those four exercises along with a link to the "About" section of the website:
 
 ["Exercise 24 Draw a Game Board"](https://www.practicepython.org/exercise/2014/12/27/24-draw-a-game-board.html)
+
 ["Exercise 26 Check Tic Tac Toe"](https://www.practicepython.org/exercise/2015/11/16/26-check-tic-tac-toe.html)
+
 ["Exercise 27 Tic Tac Toe Draw"](https://www.practicepython.org/exercise/2015/11/26/27-tic-tac-toe-draw.html)
+
 ["Exercise 29 Tic Tac Toe Game"](https://www.practicepython.org/exercise/2016/08/03/29-tic-tac-toe-game.html)
+
 [about practicepython.org and Michele Pratusevich](https://www.practicepython.org/about/)
 
 

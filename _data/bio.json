@@ -29,13 +29,13 @@
   },
   "interests": [
     {
-      "name": "object-oriented programming"
+      "name": "Object-Oriented Programming"
     },
     {
-      "name": "scripting (for automated tasks)"
+      "name": "Scripting (for automated tasks)"
     },
     {
-      "name": "software engineering"
+      "name": "Software Engineering"
     }
   ],
   "skills": [
@@ -81,8 +81,8 @@
       "summary": "",
       "highlights": [
         "Take phone orders", 
-        "Restock display cases and tidy up items on shelves", 
-        "Package items"
+        "Restock display cases and tidy up food items on shelves", 
+        "Package food items"
       ]
     },
     {
@@ -93,7 +93,7 @@
       "endDate": "2018-01",
       "summary": "",
       "highlights": [
-        "Chop spines off books to prepare for scanning its loose pages",
+        "Chop spines off of books to prepare for scanning its loose pages",
         "Scan loosened pages of whole books",
         "Transfer raw scans to external hard drive"
       ]
@@ -104,7 +104,7 @@
       "title": "Chancellor's Scholarship (a New Warrior Scholarship)",
       "date": "2017-2018",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Goal of this scholarship is to support incoming freshmen to the University of Hawaii at Manoa."
+      "summary": "Awarded to incoming resident Freshmen with an average GPA of 3.5 and either a SAT score of at least 1310 or an ACT score of at least 28."
     },
     {
       "title": "Fred and Annie Chan Tuition Scholarship",

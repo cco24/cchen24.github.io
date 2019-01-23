@@ -11,7 +11,7 @@ labels:
 summary: A brief Python program for sending SMS messages to a phone number using Twilio.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/smstwilio.png">
+<img class="ui small right floated square image" src="../images/smstwilio.png">
 
 Learning how to navigate through a new operating system and discovering one's favorite aspects about it can be an interesting and exciting experience. However, the lack of the cross-platform characteristic in services and applications might dim the thrill of that experience and upset the routine of the new users of an operating system. Not being able to use iMessages on my new Windows computer after being used to using it after 
 

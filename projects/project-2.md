@@ -13,9 +13,7 @@ summary: A brief Python program for sending SMS messages to a phone number using
 
 <img class="ui medium right floated rounded image" src="../images/smstwilio.png">
 
-Switching from one operating system to another operating system brings an interesting experience, especially if one hasn't used that operating system before. But the lack of cross-platform configuration for many services and applications might soil that experience. 
-
-
+Learning how to navigate through a new operating system and discovering one's favorite aspects about it can be an interesting and exciting experience. However, the lack of the cross-platform characteristic in services and applications might dim the thrill of that experience and upset the routine of the new users of an operating system. Not being able to use iMessages on my new Windows computer after being used to using it after 
 
 
 

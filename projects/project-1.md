@@ -19,7 +19,14 @@ labels:
 Appropriate description: Your project description should provide at least 3 paragraphs that describe: (1) what the project was about; (2) what your role was and how much of the work you were responsible for; and (3) what did you learn from the experience?
 
 
-This project is a simple, non-graphically implemented tic-tac-toe game based on four exercises found on practicepython.org. The author of the website and exercises is Michele Pratusevich. The creation process is split up into those four exercises: 1) a module to print the arbitrarily sized game board as a single ```string``` 2) a module to check throughout the game if and which player won 3) a module to modify the ```string``` board with the players' moves during the actual game 4) putting all those modules together to create the game. In addition to the 
+My first year of Computer Science courses in college felt 
+
+
+
+
+
+
+This program is a simple, non-graphically implemented tic-tac-toe game based on four exercises found on practicepython.org. The author of the website and exercises is Michele Pratusevich. The creation process is split up into those four exercises: 1) a module to print the arbitrarily sized game board as a single ```string``` 2) a module to check throughout the game if and which player won 3) a module to modify the ```string``` board with the players' moves during the actual game 4) putting all those modules together to create the game. In addition to the 
 
 
 This project was part of an individual attempt of mine to practice programming. 

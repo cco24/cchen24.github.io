@@ -10,7 +10,7 @@ labels:
   - Python
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/tictactoe1.png">
   <img class="ui image" src="../images/tictactoe2.png">
 </div>

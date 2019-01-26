@@ -18,8 +18,7 @@ Learning how to navigate through a new operating system and discovering one's fa
 
 After reading it though, I realized this wasn't going to be my ideal "replacement" method for texting via laptop, but I was still interested in seeing the process and result of creating this Python program while also learning what Twilio is and how to use it. Twilio is a service that provides APIs for video, messaging, and voice communication for web and mobile applications. Before writing any actual code, I had to sign up for an account on their website in order to use their service. With that account, I could then register for a single Twilio phone number to send SMS messages from. Using the aforementioned book as my guide, I then began writing my program, with the following being the general layout of the code: import the necessary Twilio module, create a Client with my account SID and authentication token, and call the necessary function associated with that Client to send an SMS message from my Twilio number to my personal number. A result of my program is shown in the above picture: "hi from me" is the actual message I wrote while "Sent from your Twilio trial account" is the header that accompanies every message sent on a trial account, which was what I signed up for.
 
-
-
+The source code for this project is available [here](https://github.com/christina-chen-cco2/project-source-codes/tree/master/sms_twilio).
 
 
 

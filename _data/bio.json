@@ -76,19 +76,6 @@
   ],
   "work": [
     {
-      "company": "JJ^2 Bakery",
-      "position": "Part-time Cashier",
-      "website": "",
-      "startDate": "2017-05",
-      "endDate": "2017-09",
-      "summary": "",
-      "highlights": [
-        "Take phone orders", 
-        "Restock display cases and tidy up food items on shelves", 
-        "Package food items"
-      ]
-    },
-    {
       "company": "Thomas Hale Hamilton Library",
       "position": "Digitizing Project Support",
       "website": "",
@@ -99,6 +86,19 @@
         "Chop spines off of books to prepare for scanning its loose pages",
         "Scan loosened pages of whole books",
         "Transfer raw scans to external hard drive"
+      ]
+    },
+    {
+      "company": "JJ^2 Bakery",
+      "position": "Part-time Cashier",
+      "website": "",
+      "startDate": "2017-05",
+      "endDate": "2017-09",
+      "summary": "",
+      "highlights": [
+        "Take phone orders", 
+        "Restock display cases and tidy up food items on shelves", 
+        "Package food items"
       ]
     }
   ],

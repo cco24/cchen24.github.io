@@ -8,7 +8,7 @@ permalink: projects/tictactoe
 date: 2019-01-20
 labels:
   - Python
- summary: A tic-tac-toe game based on online exercises.
+summary: A tic-tac-toe game based on online exercises.
 ---
 
 <div class="ui medium rounded images">

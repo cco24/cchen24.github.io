@@ -23,11 +23,5 @@ In order to make my program resemble a "real-life" and practical tic-tac-toe gam
 
 I found practicepython.org during the summer after my first year of programming courses in college. That summer was when I decided to brush up on my programming skills by revisiting general programming fundamentals by learning Python after reflecting on that first year. In that first year, I was exposed to the intricacies of how logic is applied in programming and the multitude of methods for storing and accessing data, but those courses were difficult for me, and I wasn't able to grasp all that I was taught. Instead of being whole and organized, I felt like my understanding of what I learned in those courses was muddled and contained holes of missing information I failed to retain. This project was one of the things that helped me to         , and it was the largest piece of code I've ever written that wasn't for school. 
 
-
-
-
-
-
-
-
+The source code for this project is available [here](https://github.com/christina-chen-cco2/project-source-codes/tree/master/tic_tac_toe).
 

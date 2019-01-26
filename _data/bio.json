@@ -5,7 +5,7 @@
     "picture": "https://techfolios.github.io/template/images/molly.png",
     "email": "cchen2@hawaii.edu",
     "phone": "",
-    "website": "https://cco24.github.io",
+    "website": "https://christina-chen-cco2.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "cco24",
-        "url": "http://github.com/cco24"
+        "username": "christina-chen-cco2",
+        "url": "http://github.com/christina-chen-cco2"
       },
       {
         "network": "linkedin",
@@ -68,7 +68,7 @@
         "ICS 211: Introduction to Computer Science II (taught in Java)",
         "ICS 141: Discrete Mathematics I",
         "ICS 241: Discrete Mathematics II",
-        "ICS 212: Program Structure (taught in C and C++)"
+        "ICS 212: Program Structure (taught in C and C++)",
         "MATH 241: Calculus I",
         "MATH 242: Calculus II"
       ]

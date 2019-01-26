@@ -8,7 +8,7 @@ permalink: projects/sending-sms-via-twilio
 date: 2019-01-22
 labels:
   - Python
-summary: A brief Python program for sending SMS messages using Twilio.
+summary: A program for sending SMS messages using Twilio.
 ---
 
 <img class="ui small right floated square image" src="../images/smstwilio.png">

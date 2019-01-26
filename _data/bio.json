@@ -64,10 +64,13 @@
       "endDate": "Present",
       "gpa": "3.34",
       "courses": [
-        "Intro to Computer Science I and II (taught in Java)",
-        "Discrete Mathematics I and II",
-        "Program Structure (taught in C/C++)",
-        "Calculus I and II" 
+        "ICS 111: Introduction to Computer Science I (taught in Java)",
+        "ICS 211: Introduction to Computer Science II (taught in Java)",
+        "ICS 141: Discrete Mathematics I",
+        "ICS 241: Discrete Mathematics II",
+        "ICS 212: Program Structure (taught in C and C++)"
+        "MATH 241: Calculus I",
+        "MATH 242: Calculus II"
       ]
     }
   ],

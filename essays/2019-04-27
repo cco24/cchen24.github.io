@@ -1,0 +1,22 @@
+---
+layout: essay
+type: essay
+title: 
+# All dates must be YYYY-MM-DD format!
+date: 2019-04-27
+labels:
+  - Design Patterns
+---
+
+
+factory: want to create objects and hide underlying logic needed and want more flexibility than given with normal OO constructor; return multiple objects from different classes and additional dependent objects
+singleton: like global variables
+observer: 
+mvc:
+
+singleton - paintings, artifacts (can't replicate or else)
+mvc - teachers (converting raw knowledge into something teachable and understandable and effective)
+observer - guard (needs to have the correct responses according to protocol to things (disregarding that not all events in protocol and need to use common sense))
+factory - 
+
+The field of software engineering has developed enormously ever since the first computers and automating-machines have been created. Many sub-fields have grown from it, its impact has extended through many areas of profession, and it has helped alleviate a broad-range of issues in society. 

@@ -51,7 +51,8 @@
       "name": "Toolsets/OS",
       "keywords": [
         "MacOS",
-        "Windows"
+        "Windows",
+        "GitHub"
       ]
     }
   ],

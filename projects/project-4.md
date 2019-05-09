@@ -14,4 +14,4 @@ labels:
 summary: 
 ---
 
-<img class="ui medium left floated image" src="../images/hangryFIX.png">
+<img class="ui large left floated image" src="../images/hangryFIX.png">

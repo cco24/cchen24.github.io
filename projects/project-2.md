@@ -12,7 +12,7 @@ labels:
 summary: A program for sending SMS messages using Twilio.
 ---
 
-<img class="ui medium right floated square image" src="../images/smstwilio.png">
+<img class="ui large right floated square image" src="../images/smstwilio.png">
 
 Learning how to navigate through a new operating system and discovering one's favorite aspects about it can be an interesting and exciting experience. However, the lack of the cross-platform characteristic in the applications and services one used on a previous operating system might dim the thrill of that experience and upset routine. My life revolves around a laptop but not so much a phone, and so, I was appreciative for iMessages since it allowed me to send and receive text messages on my MacBook to and from my iPhone, a feature I missed a lot when I started using a Windows laptop while still owning said iPhone. I was, thus, ecstatic when I saw the title of Chapter 16, "Sending Email and Text Messages", from Al Sweigart's [*Automating the Boring Stuff with Python*](https://automatetheboringstuff.com/), which I had been exploring through, where it teaches how to send SMS messages with Twilio. 
 

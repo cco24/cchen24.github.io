@@ -29,13 +29,13 @@
   },
   "interests": [
     {
-      "name": "Object-Oriented Programming"
+      "name": "Object-oriented programming"
     },
     {
-      "name": "Scripting (for automated tasks)"
+      "name": "Scripting (automated tasks)"
     },
     {
-      "name": "Software Engineering"
+      "name": "Software engineering"
     }
   ],
   "skills": [
@@ -44,14 +44,13 @@
       "keywords": [
         "C",
         "Java",
-        "JavaScript"
       ]
     },
     {
       "name": "Toolsets/OS",
       "keywords": [
         "MacOS",
-        "Windows",
+        "Windows 10",
         "GitHub"
       ]
     }
@@ -63,13 +62,13 @@
       "studyType": "B.S.",
       "startDate": "2017-08",
       "endDate": "Present",
-      "gpa": "3.34",
+      "gpa": "3.36",
       "courses": [
-        "ICS 111: Introduction to Computer Science I (taught in Java)",
-        "ICS 211: Introduction to Computer Science II (taught in Java)",
+        "ICS 111: Introduction to Computer Science I",
+        "ICS 211: Introduction to Computer Science II",
         "ICS 141: Discrete Mathematics I",
         "ICS 241: Discrete Mathematics II",
-        "ICS 212: Program Structure (taught in C and C++)",
+        "ICS 212: Program Structure",
         "ICS 314: Software Engineering I",
         "MATH 241: Calculus I",
         "MATH 242: Calculus II"

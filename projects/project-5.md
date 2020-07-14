@@ -18,6 +18,8 @@ summary: An in-progress web application consisting of a personal to-do feature f
 
 The current goal of this web application is to have a personal to-do feature for invidual users and a project management feature for teams.
 
+The current source code can be viewed [here](https://github.com/christina-chen-cco2/task-manager).
+
 <img class="ui fluid image" src="../images/taskManager1.png">
 <br/>
 <img class="ui fluid image" src="../images/taskManager2.png">

@@ -19,20 +19,12 @@
         "network": "github",
         "username": "christina-chen-cco2",
         "url": "http://github.com/christina-chen-cco2"
-      },
-      {
-        "network": "linkedin",
-        "username": "Christina Chen",
-        "url": "https://www.linkedin.com/in/christina-chen-3211aa176/"
       }
     ]
   },
   "interests": [
     {
-      "name": "Object-oriented programming"
-    },
-    {
-      "name": "Scripting (automated tasks)"
+      "name": "Web development"
     },
     {
       "name": "Software engineering"
@@ -42,16 +34,18 @@
     {
       "name": "Languages",
       "keywords": [
-        "C",
-        "Java",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP",
+        "SQL (MySQL)"
       ]
-    },
+    }
     {
-      "name": "Toolsets/OS",
+      "name": "UI Frameworks",
       "keywords": [
-        "MacOS",
-        "Windows 10",
-        "GitHub"
+        "Semantic UI",
+        "Bootstrap 3"
       ]
     }
   ],
@@ -62,14 +56,17 @@
       "studyType": "B.S.",
       "startDate": "2017-08",
       "endDate": "Present",
-      "gpa": "3.36",
+      "gpa": "3.43",
       "courses": [
         "ICS 111: Introduction to Computer Science I",
         "ICS 211: Introduction to Computer Science II",
         "ICS 141: Discrete Mathematics I",
         "ICS 241: Discrete Mathematics II",
         "ICS 212: Program Structure",
+        "ICS 311: Algorithms",
         "ICS 314: Software Engineering I",
+        "ICS 321: Databases I",
+        "ICS 414: Software Engineering II",
         "MATH 241: Calculus I",
         "MATH 242: Calculus II"
       ]
@@ -77,18 +74,16 @@
   ],
   "work": [
     {
-      "company": "Thomas Hale Hamilton Library",
-      "position": "Digitizing Project Support",
-      "website": "",
-      "startDate": "2017-09",
-      "endDate": "2018-01",
-      "summary": "",
+      "company": "ISEC Society",
+      "position": "Part-time Programmer",
+      "startDate": "2019-06",
+      "endDate": "present",
       "highlights": [
-        "Chop spines off of books to prepare for scanning its loose pages",
-        "Scan loosened pages of whole books",
-        "Transfer raw scans to external hard drive"
+        "Implemented new features as needed",
+        "Answered IT support emails",
+        "Languages": "HTML, CSS, JavaScript, PHP, SQL (MySQL)"
       ]
-    },
+    }
     {
       "company": "JJ^2 Bakery",
       "position": "Part-time Cashier",

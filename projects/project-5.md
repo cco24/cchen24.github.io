@@ -19,4 +19,4 @@ summary: An in-progress web application consisting of a personal to-do feature f
 The current goal of this web application is to have a personal to-do feature for invidual users and a project management feature for teams.
 
 <img class="ui fluid image" src="../images/taskManager1.png">
-<img class="ui large image" src="../images/taskManager2.png">
+<img class="ui fluid image" src="../images/taskManager2.png">
